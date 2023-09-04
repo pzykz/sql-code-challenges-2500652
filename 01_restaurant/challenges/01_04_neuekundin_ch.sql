@@ -10,4 +10,6 @@
 VALUES ("Anna", "Smith", "asmith@samoca.org", "479 Lapis Dr.", "Memphis",
         "TN", "555-555-1212", "1973-07-21"); */
 
-SELECT * FROM Kunden ORDER BY KundenID DESC;
+SELECT * 
+FROM Kunden 
+ORDER BY KundenID DESC;
